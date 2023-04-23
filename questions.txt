@@ -1,0 +1,6 @@
+1. Should the original guests should be counted as part of the entourage?
+2.
+
+
+# Enhancement
+1. Specify table_id when checking in guests
